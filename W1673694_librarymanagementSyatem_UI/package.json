@@ -1,0 +1,48 @@
+{
+  "name": "overnightcw04",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-router-dom": "^4.3.1",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.3",
+    "classnames": "^2.2.6",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "react": "^16.6.3",
+    "react-datepicker": "^1.8.0",
+    "react-dom": "^16.6.3",
+    "react-icons": "^3.2.2",
+    "react-moment": "^0.8.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts-ts": "^4.0.8",
+    "react-table": "^6.8.6",
+    "reactstrap": "^6.5.0",
+    "save": "^2.3.3",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^7.31.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.6",
+    "@types/jest": "^23.3.10",
+    "@types/node": "^10.12.12",
+    "@types/react": "^16.7.13",
+    "@types/react-datepicker": "^1.8.0",
+    "@types/react-dom": "^16.0.11",
+    "@types/react-table": "^6.7.18",
+    "@types/reactstrap": "^6.4.3",
+    "typescript": "^3.2.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

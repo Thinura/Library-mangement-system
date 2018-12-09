@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/thinura/My Documents/IIT/5COSC001W-OOP/Assignments/Library Management System /w1673694_librarymanagementsystem/app/controllers/HomeController.java:29:1: incompatible types: java.util.List<dto.LibraryItem> cannot be converted to java.util.List<java.lang.Object>[0m
+[0m[[0m[31merror[0m] [0m[0m        List<Object> objects = libraryManager.displayItem();[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/thinura/My Documents/IIT/5COSC001W-OOP/Assignments/Library Management System /w1673694_librarymanagementsystem/app/controllers/HomeController.java:101:1: incompatible types: java.util.List<dto.LibraryItem> cannot be converted to java.util.List<java.lang.Object>[0m
+[0m[[0m[31merror[0m] [0m[0m        List<Object> objects = libraryManager.generateReport();[0m
